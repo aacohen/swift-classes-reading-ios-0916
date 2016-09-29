@@ -89,5 +89,6 @@ func planetInfoObject(planet: Planet) {
 planetInfoObject(planet: earth2)
 planetInfoObject(planet: mars2)
 
+
 earth2.planetInfo()
 mars2.planetInfo()
